@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MarcusDavidG
-- 👀 I’m interested in Blockchain and Web3 development
-- 🌱 I’m currently learning Full Stack development and exploring new Technologies
-- 📫 How to reach me: davidmarcus827@gmail.com
-- ⚡ Fun fact: I love Chess.
+-  Hi, I’m @MarcusDavidG
+-  I’m interested in Blockchain and Web3 development
+-  I’m currently learning Full Stack development and exploring new Technologies
+-  How to reach me: davidmarcus827@gmail.com
 
 <!---
 MarcusDavidG/MarcusDavidG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
