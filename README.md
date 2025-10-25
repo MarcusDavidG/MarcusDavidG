@@ -1,6 +1,6 @@
 -  Hi, I’m Marcus David
 -  I’m interested in Blockchain and Web3 development
--  I’m currently learning Full Stack development and exploring new Technologies
+-  I’m currently learning and exploring new Technologies
 -  How to reach me: davidmarcus827@gmail.com
 
 <!---
